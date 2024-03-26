@@ -1,3 +1,3 @@
-##Programaria
+Programaria
 
-##Curso de programação básica, voltado para o desenvolvimento web.
+Curso de programação básica, voltado para o desenvolvimento web.
